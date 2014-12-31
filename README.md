@@ -30,4 +30,4 @@ string url
 ===
 
 ##Target:
-kryptopay.pl/api
+https://kryptopay.pl/api
