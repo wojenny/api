@@ -26,8 +26,8 @@ $url = str_replace("=","charcode_4",$url);
 return $url;
 }
 
-$nazwa='yournick';
-$api_public_key=sha1($nazwa);
+$username='yournick';
+$api_public_key=sha1($username);
 $api_private_key='ab672eae321eb5a36064bd25bff614246118a6e4';
 
 $amount='0.02';
