@@ -1,3 +1,4 @@
+/* Sample code of communication with the server API KryptoPayversion 1.0.0 */
 /* Przykładowy kod łączności z serwerem API sytemu KryptoPay wersja 1.0.0 */
 /*
 Mandatory:
