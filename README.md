@@ -25,9 +25,12 @@ string  a-z A-Z
 string  a-z A-Z 1-9 ','
 ####url 
 string url
-
+===
+##Code examples:
+IN PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
 
 ===
 
 ##Target:
+
 https://kryptopay.pl/api
