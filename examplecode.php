@@ -18,15 +18,6 @@ url (string url)
 
 
 <?php
-function url($url)
-{
-$url = str_replace("/","charcode_1",$url);
-$url = str_replace("&","charcode_2",$url);
-$url = str_replace("?","charcode_3",$url);
-$url = str_replace("=","charcode_4",$url);
-return $url;
-}
-
 $username='yournick';
 $api_public_key=sha1($username);
 $api_private_key='ab672eae321eb5a36064bd25bff614246118a6e4';
@@ -39,7 +30,7 @@ $name='John';
 $surname='Tomson';
 $address='Warsaw,Soldier34/123';
 $url ='https://mystore.com?invoice_id=058921123&status=ok'; 
-$url = url($url);
+$url = urlencode($url);
 
 $json_url="https://kryptopay.pl/api/create/?api_public_key=$api_public_key&api_private_key=$api_private_key&amount=$amount&order_nr=$order_nr&description=$description&company=$company&name=$name&surname=$surname&address=$address&url=$url";
 $json_data = file_get_contents($json_url);
