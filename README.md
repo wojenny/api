@@ -38,9 +38,17 @@ address string(only a-z A-Z 1-9 and ',')
 
 
 url 
+
+
 ===
 ##Errors list:
-####503 - too many attempts
-####502 - an incorrect amount
-####501 - the amount above 1000 zł
-####500 - invalid data of user
+503 - too many attempts
+
+
+502 - an incorrect amount
+
+
+501 - the amount above 1000 zł
+
+
+500 - invalid data of user
