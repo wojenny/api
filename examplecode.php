@@ -37,5 +37,5 @@ $json_data = file_get_contents($json_url);
 $json_feed = json_decode($json_data);
 $transaction=$json_feed->transaction;
 
-echo "<a href=https://kryptopay.pl/api/payments/?nr_transakcji=".$transaction.">redirect</a>";
+echo "<a href=https://kryptopay.pl/api/payments/?transaction=".$transaction.">redirect</a>";
 ?>
