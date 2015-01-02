@@ -1,9 +1,9 @@
 #Private API of KryptoPay
 
 ##Code examples:
-IN PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
-IN PYTHON V2 : https://github.com/Kryptopay/api/blob/master/examplecode_v2.py
-IN PYTHON V3 : https://github.com/Kryptopay/api/blob/master/examplecode_v3.py
+####IN PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
+####IN PYTHON V2 : https://github.com/Kryptopay/api/blob/master/examplecode_v2.py
+####IN PYTHON V3 : https://github.com/Kryptopay/api/blob/master/examplecode_v3.py
 
 ##Target:
 https://kryptopay.pl/api
@@ -19,7 +19,7 @@ string  a-z A-Z 1-9
 float
 
 ##Additional variables:
-####order_nr 
+############order_nr 
 string  a-z A-Z 1-9
 ####description 
 string  a-z A-Z 1-9 ','
