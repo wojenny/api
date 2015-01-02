@@ -1,37 +1,43 @@
 #Private API of KryptoPay
 
-##Code examples:
-####IN PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
-####IN PYTHON V2 : https://github.com/Kryptopay/api/blob/master/examplecode_v2.py
-####IN PYTHON V3 : https://github.com/Kryptopay/api/blob/master/examplecode_v3.py
 
 ##Target:
 https://kryptopay.pl/api
 
+
+##Code examples:
+####PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
+####PYTHON V2 : https://github.com/Kryptopay/api/blob/master/examplecode_v2.py
+####PYTHON V3 : https://github.com/Kryptopay/api/blob/master/examplecode_v3.py
+
 ##Target variables:
+api_public_key (sh1 string)
 
-####api_public_key 
-string a-z A-Z 1-9
 
-####api_private_key 
-string  a-z A-Z 1-9
-####amount 
-float
+api_private_key (sh1 string)
 
+
+amount (float)
 ##Additional variables:
-############order_nr 
-string  a-z A-Z 1-9
-####description 
-string  a-z A-Z 1-9 ','
-####company 
-string  a-z A-Z 1-9
-####name 
-string  a-z A-Z
-####surname 
-string  a-z A-Z
-####address 
-string  a-z A-Z 1-9 ','
-####url 
+order_nr (only a-z A-Z 1-9)
+
+
+description (only a-z A-Z 1-9 and ',')
+
+
+company (only a-z A-Z 1-9)
+
+
+name (only a-z A-Z)
+
+
+surname (only a-z A-Z)
+
+
+address string(only a-z A-Z 1-9 and ',')
+
+
+url 
 ===
 ##Errors list:
 ####503 - too many attempts
