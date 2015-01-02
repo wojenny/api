@@ -6,9 +6,9 @@ import urllib.parse
 import urllib.error
 import json
 
-username = 'testowy'
+username = 'yournick'
 api_public_key = hashlib.sha1(username.encode()).hexdigest()
-api_private_key = '7896182a268f7bfaa3ad46d63360483ebdacb37d'
+api_private_key = 'ab672eae321eb5a36064bd25bff614246118a6e4'
 amount = '0.02'
 order_nr = 'D32d3'
 description = 'Computer'
