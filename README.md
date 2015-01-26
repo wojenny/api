@@ -42,13 +42,13 @@ url
 
 ===
 ##Errors list:
-503 - too many attempts
+403 - too many attempts
 
 
-502 - an incorrect amount
+402 - an incorrect amount
 
 
-501 - the amount above 1000 zł
+401 - the amount above 1000 zł
 
 
-500 - invalid data of user
+400 - invalid data of user
