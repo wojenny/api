@@ -14,7 +14,7 @@ https://kryptopay.pl/api
 api_public_key (sh1 string)
 
 
-api_private_key (sh1 string)
+api_private_key (sh2 string)
 
 
 amount (float)
