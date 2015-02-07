@@ -1,7 +1,7 @@
 #Private API of KryptoPay
 
 ##Target:
-https://kryptopay.pl/api
+https://kryptopay.pl/api/withdrawals/
 
 ##Target variables:
 api_public_key (sh1 string)
