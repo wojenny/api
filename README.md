@@ -6,9 +6,8 @@ https://kryptopay.pl/api
 
 
 ##Code examples:
-####PHP : https://github.com/Kryptopay/api/blob/master/examplecode.php
-####PYTHON V2 : https://github.com/Kryptopay/api/blob/master/examplecode_v2.py
-####PYTHON V3 : https://github.com/Kryptopay/api/blob/master/examplecode_v3.py
+####PHP : https://github.com/Kryptopay/api/tree/master/php
+####PYTHON V2/V3 : https://github.com/Kryptopay/api/tree/master/python
 
 ##Target variables:
 api_public_key (sh1 string)
