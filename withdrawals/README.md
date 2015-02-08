@@ -1,4 +1,4 @@
-#Private API of KryptoPay
+#Private API of KryptoPay - withdrawals
 
 ##Target:
 https://kryptopay.pl/api/withdrawals/
