@@ -47,7 +47,7 @@ url
 402 - an incorrect amount
 
 
-401 - the amount above 1000 zł
+401 - the amount above limit
 
 
 400 - invalid data of user
