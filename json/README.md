@@ -1,10 +1,16 @@
 #Private API of KryptoPay - json
 
-##Target:
+##Target create:
 https://kryptopay.pl/api/json/create/
 
 
 eg. https://kryptopay.pl/api/json/create/?amount=43&api_public_key=xxx&api_private_key=xxxx
+
+##Target withdrawals:
+https://kryptopay.pl/api/json/withdrawals/
+
+
+eg. https://kryptopay.pl/api/json/withdrawals/?amount=43&api_public_key=xxx&api_private_key=xxxx
 
 ##Target variables:
 api_public_key (sh1 string)
