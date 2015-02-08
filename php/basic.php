@@ -1,5 +1,5 @@
 <?php
-/* Przykładowy kod łączności z serwerem API sytemu KryptoPay wersja 1.0.0 */
+/* Przykładowy kod łączności z serwerem API systemu KryptoPay wersja 1.0.0 */
 /*
 Mandatory:
 api_public_key (string - a-z A-Z 1-9) 
