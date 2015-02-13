@@ -16,7 +16,7 @@ https://kryptopay.pl/api/json/create/
 eg. https://kryptopay.pl/api/json/create/?amount=43&api_public_key=xxx&api_private_key=xxxx
 
 
-{"success":"true","error":"0","transaction":"OGJS2QVK1PL","address":"1LfuecSfmWmJFbD1uypigKSHbdZtSspGQ7"}
+{"success":"true","error":"0","transaction":"MMIDTVDK89R","address":"1B5Eo8GPbrR6eCiNYCu5khvyi4iak9F5zB","amount_btc":0.0506765,"amount_pln":43}
 
 ##Target withdrawals:
 https://kryptopay.pl/api/json/withdrawals/
