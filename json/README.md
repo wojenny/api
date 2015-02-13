@@ -50,10 +50,10 @@ amount (float) (in withdrawals,create)
 402 - over limit
 
 
-403 - amount below 10zł
+403 - incorrect amount PLN
 
 
 405 - lack of resources
 
 
-504 - serwer not ressponding
+504 - server not ressponding
