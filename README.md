@@ -7,29 +7,31 @@ https://kryptopay.pl/api
 #####Creating transaction:
 
 
-https://kryptopay.pl/api/create/
+https://kryptopay.pl/api/create/ (api_public_key+api_private_key+amount)
 
 
 #####View of transaction
 
 
-Default: https://kryptopay.pl/api/payments/
+Default: https://kryptopay.pl/api/payments/ (transaction)
 
 
-Polish version: https://kryptopay.pl/api/payments/pl/
+Polish version: https://kryptopay.pl/api/payments/pl/ (transaction)
 
 
 English version: https://kryptopay.pl/api/payments/en/
 
 ####JSON (All account information and accessories)
-https://kryptopay.pl/api/json/info/
+https://kryptopay.pl/api/json/info/ (api_public_key+api_private_key)
 
 
-https://kryptopay.pl/api/json/create/
+https://kryptopay.pl/api/json/create/ (api_public_key+api_private_key+amount)
 
 
-https://kryptopay.pl/api/json/withdrawals/
+https://kryptopay.pl/api/json/withdrawals/ (api_public_key+api_private_key+amount)
 
+
+https://kryptopay.pl/api/json/transaction/ (transaction)
 
 
 ##Code examples:
