@@ -3,6 +3,26 @@
 
 ##Target:
 https://kryptopay.pl/api
+####GRAPHIC (simple)
+Creating transaction:
+
+
+https://kryptopay.pl/api/create/
+
+
+View of transaction
+
+
+https://kryptopay.pl/api/payments/
+####JSON (All account information and accessories)
+https://kryptopay.pl/api/json/info/
+
+
+https://kryptopay.pl/api/json/create/
+
+
+https://kryptopay.pl/api/json/withdrawals/
+
 
 
 ##Code examples:
