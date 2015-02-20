@@ -13,7 +13,14 @@ https://kryptopay.pl/api/create/
 View of transaction
 
 
-https://kryptopay.pl/api/payments/
+Default: https://kryptopay.pl/api/payments/
+
+
+Polish version: https://kryptopay.pl/api/payments/pl/
+
+
+English version: https://kryptopay.pl/api/payments/en/
+
 ####JSON (All account information and accessories)
 https://kryptopay.pl/api/json/info/
 
