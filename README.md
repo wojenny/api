@@ -4,13 +4,13 @@
 ##Target:
 https://kryptopay.pl/api
 ####GRAPHIC (simple)
-Creating transaction:
+#####Creating transaction:
 
 
 https://kryptopay.pl/api/create/
 
 
-View of transaction
+#####View of transaction
 
 
 Default: https://kryptopay.pl/api/payments/
