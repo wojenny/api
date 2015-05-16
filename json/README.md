@@ -27,7 +27,7 @@ eg. https://kryptopay.pl/api/json/withdrawals/?amount=43&api_public_key=xxx&api_
 
 {"success":"true","error":""}
 
-##Target create:
+##Target check condition:
 https://kryptopay.pl/api/json/transaction/
 
 
