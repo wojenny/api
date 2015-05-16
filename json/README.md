@@ -27,6 +27,15 @@ eg. https://kryptopay.pl/api/json/withdrawals/?amount=43&api_public_key=xxx&api_
 
 {"success":"true","error":""}
 
+##Target create:
+https://kryptopay.pl/api/json/transaction/
+
+
+eg. https://kryptopay.pl/api/json/transaction/?transaction=P3FSQX2LJS5
+
+
+{"success":"true","condition":"false"}
+
 ##Target variables:
 api_public_key (sh1 string) (in all)
 
