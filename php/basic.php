@@ -14,7 +14,6 @@ surname (string - a-z A-Z)
 address (string - a-z A-Z 1-9 ',')
 url (string url)
 */
-$nazwa='testowy';
 $api_public_key='xxxxxxxxxxxxxxxxxxxxxxxx';
 $api_private_key='xxxxxxxxxxxxxxxxxxxxxxxx';
 $amount='1.25';
