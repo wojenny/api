@@ -34,7 +34,10 @@ https://kryptopay.pl/api/json/transaction/
 eg. https://kryptopay.pl/api/json/transaction/?transaction=P3FSQX2LJS5
 
 
-{"success":"true","condition":"false"}
+{"success":"true","condition":"false","start_time":"1431980041"}
+
+
+{"success":"true","condition":"true","url":"https%3A%2F%2Fmystore.com%3Finvoice_id%3D999999%26status%3Dok","url_fail":"https%3A%2F%2Fmystore.com%3Finvoice_id%3D999999%26status%3Dfail","start_time":"1431891738"}
 
 ##Target variables:
 api_public_key (sh1 string) (in all)
