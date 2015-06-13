@@ -29,7 +29,7 @@ $_SESSION['kryptopay_payment_system']=$transaction;
 <?php
 echo '<font size="2"><b>Scan QR or click on it to pay your order</b></font></br>';
 echo '<a href="'.$zmiennaadresowa.'"> <img src='.$qrcod.' /></a></br>';
-echo '</br><font size="4">Send exactly: <b>'.$amount_btc.' BTC</font></b></br><font size="2"><b><a href="'.$zmiennaadresowa.'">'.$adres_pobrany_btc.'</a></b></font>';
+echo '</br><font size="4">Send exactly: <b>'.$amount_btc.' BTC</font></b></br><font size="1"><b>To: '.$adress.'</b></font>';
  ?>
 
 <div id="refresh">
